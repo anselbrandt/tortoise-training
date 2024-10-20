@@ -5,3 +5,5 @@ Test1*
 autoregressive.pth
 dvae.pth
 EXAMPLE_gpt.yml
+output
+selected
